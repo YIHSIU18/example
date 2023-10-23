@@ -1,2 +1,2 @@
 Hello Git!!
-It has connected!Goooo!
+It has connected!

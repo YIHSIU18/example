@@ -7,3 +7,13 @@ body {
   p {
     color: black;
   }
+
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color: pink;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
